@@ -1,0 +1,3 @@
+[submodule "STM32MemoryCard"]
+	path = lib/STM32MemoryCard
+	url = git@github.com:ThundeRatz/STM32MemoryCard.git
